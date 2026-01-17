@@ -8,5 +8,3 @@ Documentation for the DevOps portfolio:
 - CKA practice notes
 
 > All changes go through Pull Requests and are verified by CI.
-
-test
