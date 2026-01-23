@@ -1,10 +1,13 @@
 # Blockers Log
 
-This file is to record issues that block progress for more than 2–3 hours.
+Use this log for issues that block progress for more than 2–3 hours.
 
 Template:
+
 - Date:
+- Context:
 - Problem:
 - What I tried:
 - Workaround:
 - Next steps:
+

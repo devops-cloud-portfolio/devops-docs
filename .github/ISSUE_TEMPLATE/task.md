@@ -8,7 +8,7 @@ assignees: ""
 
 ## Goal
 
--
+- 
 
 ## Scope / checklist
 
@@ -22,5 +22,5 @@ assignees: ""
 
 ## Notes / links
 
--
+- 
 

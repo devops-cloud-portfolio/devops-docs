@@ -1,10 +1,12 @@
 # DevOps Portfolio Docs
 
-Documentation for the DevOps portfolio:
+Documentation hub for the DevOps portfolio:
+
 - Architecture notes
 - ADRs (Architecture Decision Records)
 - Runbooks
-- DR (backup/restore)
+- DR drills (backup/restore)
 - CKA practice notes
 
-> All changes go through Pull Requests and are verified by CI.
+> Everything is built via PRs and verified with CI.
+
