@@ -9,4 +9,3 @@ Documentation hub for the DevOps portfolio:
 - CKA practice notes
 
 > Everything is built via PRs and verified with CI.
-
