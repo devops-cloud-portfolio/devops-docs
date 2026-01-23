@@ -7,16 +7,19 @@ assignees: ""
 ---
 
 ## Goal
+
 -
 
 ## Scope / checklist
-- [ ] 
-- [ ] 
-- [ ] 
+
+- [ ]
+- [ ]
+- [ ]
 
 ## Acceptance criteria
-- [ ] 
+
+- [ ]
 
 ## Notes / links
--
 
+-
