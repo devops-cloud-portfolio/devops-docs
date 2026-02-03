@@ -29,12 +29,12 @@ I split the work into a few repos in one GitHub org:
 - plus - everything in one place
 - minus - mixed topics, harder to review fast
 
-2. One repo for app and platform
+1. One repo for app and platform
 
 - plus - fewer repos
 - minus - app code and GitOps config become too coupled
 
-3. GitHub Wiki for docs
+1. GitHub Wiki for docs
 
 - plus - easy browsing
 - minus - weaker PR flow and less “docs as code”
